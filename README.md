@@ -1,7 +1,6 @@
-# rate_courses
+# This is a very insecure django project meant for exposing vulnerabilties
 
-This is the README for the rate courses web application.
+Please do not use any of this code in any production context. Ever!
 
-This application is currently in Development.
 
 
